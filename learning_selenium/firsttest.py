@@ -28,7 +28,3 @@ password_input.send_keys("Ats@1234")
 login_button.click()
 driver.close()
 
-# def addition():
-#     print(12+34)
-
-# addition()
